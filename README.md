@@ -7,7 +7,7 @@ Trabajo Práctico Integrador de la asignatura Sistemas Operativos.
 - Basualdo Álvarez, Facundo Fabián.
 - Galarza Maumary, Florencia.
 - Martínez, Agostina Denise.
-- Rivero, Bruno Sebastián .
+- Rivero, Bruno Sebastián.
 - Urturi, Renzo Octavio.
 - Zeniquel Martinelli, Camila Aylén.
 
@@ -38,6 +38,7 @@ rendimiento del sistema (trabajos/unidad de tiempo)].
 Al iniciar, el programa solicita la forma de carga de procesos manual, con el archivo procesos.txt adjunto o cualquier .txt/.csv con formato _id_proceso,tamaño,tiempo_arribo,tiempo_irrupción_
 
 El simulador avanza paso a paso, mostrando las colas, particiones y procesos en CPU, y espera que el usuario presione Enter para continuar.
+
 
 
 
