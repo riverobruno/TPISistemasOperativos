@@ -34,8 +34,10 @@ rendimiento del sistema (trabajos/unidad de tiempo)].
 - Visualización en tablas con tabulate y colores con colorama.
 
 <ins> Ejecución </ins>
-Al iniciar, el programa solicita la forma de carga de procesos manual o con archivo .txt o .csv con formato _id_proceso,tamaño,tiempo_arribo,tiempo_irrupción_
+
+Al iniciar, el programa solicita la forma de carga de procesos manual, con el archivo procesos.txt adjunto o cualquier .txt/.csv con formato _id_proceso,tamaño,tiempo_arribo,tiempo_irrupción_
 
 El simulador avanza paso a paso, mostrando las colas, particiones y procesos en CPU, y espera que el usuario presione Enter para continuar.
+
 
 
